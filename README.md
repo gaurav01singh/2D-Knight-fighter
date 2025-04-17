@@ -9,7 +9,7 @@ Welcome to the **2D Platform Game**! This project is a Unity-based 2D platformer
 - Smooth player controls and animations.
 
 ## Requirements
-- Unity 2021.3 or later.
+- Unity 6000.0.40f1
 - Basic understanding of Unity for customization.
 
 ## Installation
