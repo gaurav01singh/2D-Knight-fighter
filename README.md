@@ -15,7 +15,7 @@ Welcome to the **2D Platform Game**! This project is a Unity-based 2D platformer
 ## Installation
 1. Clone this repository to your local machine:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/gaurav01singh/2D-Knight-fighter
     ```
 2. Open the project in Unity.
 3. Press the Play button to start the game.
